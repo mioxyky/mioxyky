@@ -16,7 +16,7 @@
 
 ```yaml
 name: Mio
-pronouns: they/them
+pronouns: She/he/they
 role: Indie Developer
 mindset: Bringing ideas to life, one project at a time
 interests: I enjoy coding, but it's neither my main hobby nor my whole life
