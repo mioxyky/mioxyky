@@ -18,14 +18,15 @@
 name: Mio
 pronouns: they/them
 role: Indie Developer
-interests: Building weird and useful things
-currently_working_on: Minecraft mods & personal projects
-vibe: Purple nights, cozy weather & cats 🐈
+mindset: Bringing ideas to life, one project at a time
+interests: I enjoy coding, but it's neither my main hobby nor my whole life
+little_world: My girlfriend, my cat & peaceful evenings
+vibe: Autumn atmosphere, chill music & cozy nights ♡
 ```
 
-- I enjoy creating projects that solve problems or bring new ideas to life.
-- Currently exploring Minecraft mod development with **Fabric**.
-- I love improving existing ideas and building my own implementations.
+I enjoy creating projects that solve problems or bring new ideas to life. Whether they're useful or completely pointless, I like turning my ideas into something real.
+
+I'm currently exploring web development, Minecraft modding with **Fabric**, and other random ideas that pop into my head.
 
 ## 🛠️ Tech Stack
 
