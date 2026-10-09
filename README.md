@@ -12,6 +12,21 @@
 
 </div>
 
+## 🌸 About Me
+
+```yaml
+name: Mio
+pronouns: they/them
+role: Indie Developer
+interests: Building weird and useful things
+currently_working_on: Minecraft mods & personal projects
+vibe: Purple nights, cozy weather & cats 🐈
+```
+
+- I enjoy creating projects that solve problems or bring new ideas to life.
+- Currently exploring Minecraft mod development with **Fabric**.
+- I love improving existing ideas and building my own implementations.
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -29,8 +44,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mioxyky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B58AFF&icon_color=B58AFF&text_color=C9D1D9" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mioxyky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B58AFF&text_color=C9D1D9" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=mioxyky&theme=tokyonight&hide_border=true&background=0D1117&ring=B58AFF&fire=CE9AFF&currStreakLabel=B58AFF" />
 
 </div>
 
