@@ -7,7 +7,7 @@
 *Making the things I wish existed.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mioxyky-181717?style=for-the-badge&logo=github)](https://github.com/mioxyky)
-[![Minecraft](https://img.shields.io/badge/Minecraft-Modding-8B6CCF?style=for-the-badge&logo=minecraft&logoColor=white)](https://github.com/mioxyky)
+[![Minecraft](https://img.shields.io/badge/Modrinth-Miory-8B6CCF?style=for-the-badge&logoColor=white&logo=modrinth)](https://modrinth.com/user/Miory)
 [![Profile Views](https://komarev.com/ghpvc/?username=mioxyky&style=for-the-badge&color=B58AFF&label=PROFILE+VIEWS)](https://github.com/mioxyky)
 
 </div>
