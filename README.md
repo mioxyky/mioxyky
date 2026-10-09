@@ -12,29 +12,6 @@
 
 </div>
 
-## 🌸 About Me
-
-```yaml
-name: Mio
-username: mioxyky
-pronouns: they/them
-role: Indie Developer
-interests:
-  - Minecraft Modding
-  - Fabric & Java
-  - Open Source Projects
-  - Software Development
-  - Building weird and useful things
-currently_working_on: Minecraft mods & personal projects
-vibe: Purple nights, cozy weather & cats 🐈
-```
-
-- I enjoy creating projects that solve problems or bring new ideas to life.
-- Currently exploring Minecraft mod development with **Fabric**.
-- Interested in software, launchers, tools and creative coding.
-- I love improving existing ideas and building my own implementations.
-- Always learning something new.
-
 ## 🛠️ Tech Stack
 
 <div align="center">
