@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=B58AFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mio+%F0%9F%91%8B;Minecraft+Mod+Developer+%E2%9C%A8;Building+things+for+fun+%F0%9F%92%9C;Turning+ideas+into+code+%F0%9F%8C%99" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=B58AFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mio+%3A3;Minecraft+Mod+Developer;Web+Developer;Building+things+for+fun;Turning+ideas+into+code" alt="Typing SVG" />
 
 **Minecraft Modding · Open Source · Creative Development**
 
