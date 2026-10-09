@@ -1,16 +1,68 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mioxyky/mioxyky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=B58AFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mio+%F0%9F%91%8B;Minecraft+Mod+Developer+%E2%9C%A8;Building+things+for+fun+%F0%9F%92%9C;Turning+ideas+into+code+%F0%9F%8C%99" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+**Minecraft Modding · Open Source · Creative Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Making the things I wish existed.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mioxyky-181717?style=for-the-badge&logo=github)](https://github.com/mioxyky)
+[![Minecraft](https://img.shields.io/badge/Minecraft-Modding-8B6CCF?style=for-the-badge&logo=minecraft&logoColor=white)](https://github.com/mioxyky)
+[![Profile Views](https://komarev.com/ghpvc/?username=mioxyky&style=for-the-badge&color=B58AFF&label=PROFILE+VIEWS)](https://github.com/mioxyky)
+
+</div>
+
+## 🌸 About Me
+
+```yaml
+name: Mio
+username: mioxyky
+pronouns: they/them
+role: Indie Developer
+interests:
+  - Minecraft Modding
+  - Fabric & Java
+  - Open Source Projects
+  - Software Development
+  - Building weird and useful things
+currently_working_on: Minecraft mods & personal projects
+vibe: Purple nights, cozy weather & cats 🐈
+```
+
+- I enjoy creating projects that solve problems or bring new ideas to life.
+- Currently exploring Minecraft mod development with **Fabric**.
+- Interested in software, launchers, tools and creative coding.
+- I love improving existing ideas and building my own implementations.
+- Always learning something new.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python,git,github,vscode&theme=dark" height="48" alt="Tech stack" />
+
+</div>
+
+<div align="center">
+  
+### GitHub Analytics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mioxyky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B58AFF&icon_color=B58AFF&text_color=C9D1D9" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mioxyky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B58AFF&text_color=C9D1D9" />
+
+<img width="95%" src="https://streak-stats.demolab.com?user=mioxyky&theme=tokyonight&hide_border=true&background=0D1117&ring=B58AFF&fire=CE9AFF&currStreakLabel=B58AFF" />
+
+</div>
+
+<div align="center">
+
+---
+
+### 🌙 Thanks for visiting my little corner of GitHub!
+
+*Stay curious. Keep building. Make something cool.*
+
+</div>
