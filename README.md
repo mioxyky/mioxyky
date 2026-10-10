@@ -34,7 +34,7 @@ I'm currently exploring web development, Minecraft modding with **Fabric**, and 
 
 ### Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,git,github,vscode&theme=dark" height="48" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,git,github,nextjs,vscode,ps,pr,ae,ai&theme=dark" height="48" alt="Tech stack" />
 
 </div>
 
