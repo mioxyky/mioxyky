@@ -8,8 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mioxyky-181717?style=for-the-badge&logo=github)](https://github.com/mioxyky)
 [![Minecraft](https://img.shields.io/badge/Modrinth-Miory-8B6CCF?style=for-the-badge&logoColor=white&logo=modrinth)](https://modrinth.com/user/Miory)
-[![Profile Views](https://img.shields.io/badge/PROFILE%20VIEWS-168-B58AFF?style=for-the-badge)](https://komarev.com/ghpvc/?username=mioxyky&style=for-the-badge&color=B58AFF&label=PROFILE+VIEWS)
-
+![Profile Views](https://komarev.com/ghpvc/?username=mioxyky&style=for-the-badge&color=B58AFF&label=PROFILE+VIEWS)
 
 </div>
 
